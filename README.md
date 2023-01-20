@@ -10,6 +10,10 @@ dotnet run
 ### window user:
 click on debug to start
 
+## Testing the project
+make a call to this endpoint: 
+- http://localhost:PORT/WeatherForecast
+
 ## Details:
 ### Controller:
 Controllers represents paths in a webAPI. For example, WeatherForecastController listens to requests at the path of <WeatherForecast>
